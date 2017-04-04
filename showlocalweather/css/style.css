@@ -1,0 +1,21 @@
+body{
+  background-color: rgb(44,62,80);
+  font-family: Raleway;
+  color: white;
+}
+.title{
+  font-size: 80px;
+  padding-top: 10px;
+}
+h1{
+  font-size: 50px;
+}
+a:hover{
+  cursor: pointer;
+  text-decoration: none;
+}
+.btn{
+  background-color: rgb(44,62,80);
+  color:white;
+  #margin-bottom: 50px;
+}
